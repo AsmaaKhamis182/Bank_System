@@ -1,0 +1,38 @@
+{
+    "admins": [
+        {
+            "Dell": {
+                "password": "11110"
+            },
+            "Hp": {
+                "password": "00001"
+            }
+        }
+    ],
+    "users": [
+        {
+            "Ahmed": {
+                "accountnumber": "3456",
+                "password": "1234"
+            }
+        },
+        {
+            "Sarah": {
+                "accountnumber": "6789",
+                "password": "5678"
+            }
+        },
+        {
+            "mai": {
+                "accountnumber": "7474",
+                "password": "10101"
+            }
+        },
+        {
+            "walaa": {
+                "accountnumber": "8822",
+                "password": "8520"
+            }
+        }
+    ]
+}

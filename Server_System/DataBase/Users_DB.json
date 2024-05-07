@@ -1,0 +1,81 @@
+{
+    "30d9": {
+        "Accountnumber": "30d9",
+        "Age": "64",
+        "Balance": "9632147",
+        "Fullname": "shimaa ali",
+        "Username": "shimaa"
+    },
+    "3456": {
+        "Accountnumber": "3456",
+        "Age": "31",
+        "Balance": "22680",
+        "Fullname": "Ahmed Ali Hassan",
+        "Transaction History": [
+            {
+                "datetime": "2024-05-06 23:54:14",
+                "details": "+100"
+            },
+            {
+                "datetime": "2024-05-06 23:52:14",
+                "details": "-200"
+            },
+            {
+                "datetime": "2024-05-06 23:50:14",
+                "details": "+300"
+            },
+            {
+                "datetime": "2024-05-06 23:48:14",
+                "details": "-400"
+            },
+            {
+                "datetime": "2024-05-06 23:46:14",
+                "details": "+500"
+            }
+        ],
+        "Username": "Ahmed"
+    },
+    "6789": {
+        "Accountnumber": "6789",
+        "Age": "29",
+        "Balance": "31000",
+        "Fullname": "Sarah Mohamed Amin",
+        "Transaction History": [
+            {
+                "datetime": "2024-05-06 23:54:14",
+                "details": "+200"
+            },
+            {
+                "datetime": "2024-05-06 23:52:14",
+                "details": "-300"
+            },
+            {
+                "datetime": "2024-05-06 23:50:14",
+                "details": "+400"
+            },
+            {
+                "datetime": "2024-05-06 23:48:14",
+                "details": "-500"
+            },
+            {
+                "datetime": "2024-05-06 23:46:14",
+                "details": "+600"
+            }
+        ],
+        "Username": "Sarah"
+    },
+    "7474": {
+        "Accountnumber": "7474",
+        "Age": "64",
+        "Balance": "12300",
+        "Fullname": "mai ahmed",
+        "Username": "mai"
+    },
+    "8822": {
+        "Accountnumber": "8822",
+        "Age": "57",
+        "Balance": "3698521",
+        "Fullname": "walaa hassan",
+        "Username": "walaa"
+    }
+}
